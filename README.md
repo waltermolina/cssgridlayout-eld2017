@@ -1,3 +1,4 @@
+![Encabezado](https://raw.githubusercontent.com/waltermolina/cssgridlayout-eld2017/master/headerjpg.jpg)
 # CSS Grid Layout: El futuro del Diseño Web
 
 Archivos de la Conferencia CSS Grid Layouts en el marco del <b>XII Encuentro Latinoamericano de Diseño</b> de la <b>Universidad de Palermo</b>.
@@ -21,3 +22,4 @@ Permisos más allá del alcance de esta licencia pueden estar disponibles en <a 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
 _______
+![by tachuso](https://raw.githubusercontent.com/waltermolina/cssgridlayout-eld2017/master/eld2017-cssgrid/img/tachusoVioleta50.png)
