@@ -11,7 +11,7 @@ En este repositorio están almacenados:
 	 - 💎**layout.css** muestra el código de ejemplo css que habilita la visualización 2D de CSS Grid.
 	 - 📁**img** es la carpeta contenedora de imágenes para nuestro ejemplo.
 
-El ejemplo puede verse funcionando en [este link](sadsadsads).
+El ejemplo puede verse funcionando en [este link](https://waltermolina.github.io/cssgridlayout-eld2017/).
 
 ___
 <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">
